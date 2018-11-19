@@ -1,8 +1,6 @@
 # Site settings
 name: Gustavo Narea
-email: edwin+contactme@someemail.com
-#canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
+keywords: "Software Engineer, Python, Node.js, PostgreSQL, MongoDB, AWS, Docker, Agile, Scrum, Pair Programming"
 skills: "Senior Software Engineer in Oxford, UK"
 baseurl:
 
@@ -27,8 +25,6 @@ color:
   secondary: 285172
   secondary-dark: 29455b
   section-tout: eaf1f1
-
-
 
 # Build settings
 markdown: kramdown
